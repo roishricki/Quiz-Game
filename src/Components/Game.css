@@ -1,0 +1,34 @@
+.game {
+margin-top: 10px;
+
+}
+
+.game button{
+    font-style:italic;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 0.8rem 1.5rem;
+    border: 6px solid #000000;
+    background-color: #d38ffa;
+    color: rgb(0, 0, 0);
+    border-radius: 11px;
+    margin-bottom: 2rem;
+   
+}
+
+h2{
+    color :black;
+}
+
+.game button:hover,
+.game button:active{
+    background-color: #ba45fd;
+  border-color: #000000;
+}
+
+.game img{
+    margin-top: 10px;
+    height: 45px;
+    margin-bottom: 20px;
+  }
+
