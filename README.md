@@ -13,3 +13,9 @@ React multiple choice questions answer game.
 ![image](https://user-images.githubusercontent.com/66624113/125792326-adc8f960-c4d1-4464-8c51-c2b734f7f2c4.png)
 
 
+## Next Update :
+1)  More Questions.
+2)  Questions by difficulty levels (easy-medium-hard).
+3) Timer - 30 sec for question.
+
+
